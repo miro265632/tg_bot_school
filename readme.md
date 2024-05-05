@@ -4,9 +4,9 @@
 
 ### Используемые библиотеки и их версии:
 
-python-telegram-bot==21.1.1
-requests==2.31.0
-SQLAlchemy==2.0.29
+python-telegram-bot==21.1.1 /n
+requests==2.31.0 /n
+SQLAlchemy==2.0.29 /n
 
 ### Функционал:
 
