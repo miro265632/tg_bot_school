@@ -12,7 +12,7 @@ from telegram import ReplyKeyboardMarkup
 from tg_bot_school.ORM_test.data import db_session
 from tg_bot_school.ORM_test.data.users import User
 
-TOKEN = '6657157411:AAGEdLK_C6n_FVTnEqmOqwI0zPZJeesu2KE'
+TOKEN = 'спросите у меня или введите свой'
 
 db_session.global_init("ORM_test/db/Users.db")
 
